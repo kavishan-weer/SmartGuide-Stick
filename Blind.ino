@@ -12,8 +12,8 @@ const char* ssid = "xxxxxxxxxxx";
 const char* password = "xxxxxxxxxxxx";
 
 // Bot's API token and chat ID
-#define BOTtoken "7071642843:AAE43T0_m8dAxDyUeNfNmZWYhIbI6ulK-kQ"
-#define CHAT_ID "7123518219"
+#define BOTtoken ""
+#define CHAT_ID "9"
 
 WiFiClientSecure client;
 UniversalTelegramBot bot(BOTtoken, client);
